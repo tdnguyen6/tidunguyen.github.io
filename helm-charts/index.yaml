@@ -24,6 +24,6 @@ entries:
     - https://github.com/coredns/coredns
     type: application
     urls:
-    - helm-charts/kube-dns-1.18.0.tgz
+    - https://tidunguyen.github.io/helm-charts/kube-dns-1.18.0.tgz
     version: 1.18.0
 generated: "2022-03-24T15:15:13.325730217+07:00"
