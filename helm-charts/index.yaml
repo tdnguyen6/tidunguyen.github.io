@@ -6,7 +6,7 @@ entries:
         - Initial helm chart changelog
     apiVersion: v2
     appVersion: 1.8.7
-    created: "2022-03-24T15:07:41.8298608+07:00"
+    created: "2022-03-24T15:15:13.326813566+07:00"
     description: CoreDNS is a DNS server that chains plugins and provides Kubernetes
       DNS Services
     digest: 4fffb17edef240e418001679d28d3575409bb5e9620262ac4dbdfb10285fe79f
@@ -24,6 +24,6 @@ entries:
     - https://github.com/coredns/coredns
     type: application
     urls:
-    - helm-charts/helm-charts/kube-dns-1.18.0.tgz
+    - helm-charts/kube-dns-1.18.0.tgz
     version: 1.18.0
-generated: "2022-03-24T15:07:41.828517751+07:00"
+generated: "2022-03-24T15:15:13.325730217+07:00"
